@@ -12,11 +12,16 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 **Data Sources:**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+We will use two primary types of data sources to tackle this research question. The first type is permit data. This will allow us to determine the date and location of each permit pulled to pursue accessory dwelling unit developments. See the first link below for permit data from 2014 to 2020 for the city of Los Angeles. The second type of data we will use is American Community Survey income data. The second link below shows income at the block-group (neighborhood) level throughout Los Angeles County.
+
+[GitHub](https://data.lacity.org/City-Infrastructure-Service-Requests/Building-and-Safety-Permit-Information-Old/yv23-pmwf/data)
+[GitHub](https://data.census.gov/cedsci/table?q=income&g=0500000US06037.150000&tid=ACSDT5Y2019.B19001&hidePreview=false)
 
 **Intended Analysis / Visualizations:**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Our analysis will consist of three steps, as shown in the flow chart below. First, we will collect data (see data sources above). Next, we will analyze the data at the block group level, determining both the number of ADUs permitted in and the median income of each block group. Last, we will visualize our results with both a simple chart and a map.
+
+![GitHub Logo](https://imgur.com/a/VV0RZ0D)
 
 **Conclusion:**
 
