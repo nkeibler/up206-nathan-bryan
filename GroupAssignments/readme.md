@@ -21,7 +21,7 @@ We will use two primary types of data sources to tackle this research question. 
 
 Our analysis will consist of three steps, as shown in the flow chart below. First, we will collect data (see data sources above). Next, we will analyze the data at the block group level, determining both the number of ADUs permitted in and the median income of each block group. Last, we will visualize our results with both a simple chart and a map.
 
-![GitHub Logo](https://imgur.com/a/VV0RZ0D)
+![alt text](http://url/to/img.png)
 
 **Conclusion:**
 
