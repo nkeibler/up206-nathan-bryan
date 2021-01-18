@@ -19,10 +19,10 @@ We will use two primary types of data sources to tackle this research question. 
 
 **Intended Analysis / Visualizations:**
 
-Our analysis will consist of three steps, as shown in the flow chart below. First, we will collect data (see data sources above). Next, we will analyze the data at the block group level, determining both the number of ADUs permitted in and the median income of each block group. Last, we will visualize our results with both a simple chart and a map.
+Our analysis will consist of three steps, as shown in the flow chart below. First, we will collect data (see data sources above). Next, we will analyze the data at the block group level, determining both the number of ADUs permitted in and the median income of each block group. Last, we will visualize our results with both a chart and a map.
 
-![alt text](http://url/to/img.png)
+![Flow Chart](https://i.imgur.com/xVgojPm.jpg)
 
 **Conclusion:**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+We expect this research to help us determine whether there is a correlation between the median income of a neighborhood and its number of permitted ADUs. We expect that the permitting of ADUs will be negatively associated with neighborhood income because neighborhoods with more wealth will be more inclined to resist affordable housing options and maintain their exclusivity. Note, however, that while this analysis will help us determine correlation of these two variables, it will not help us determine causation.
