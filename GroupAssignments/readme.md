@@ -12,7 +12,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 **Data Sources:**
 
-We will use two primary types of data sources to tackle this research question. The first type is permit data. This will allow us to determine the date and location of each permit pulled to pursue accessory dwelling unit developments. See the first link below for permit data from 2014 to 2020 for the city of Los Angeles. The second type of data we will use is American Community Survey income data. The second link below shows income at the block-group (neighborhood) level throughout Los Angeles County.
+We will use two primary types of data sources to tackle this research question. The first type is permit data. This will allow us to determine the date and location of each permit pulled to pursue accessory dwelling unit developments. See the first link below for permit data from 2014 to 2020 for the city of Los Angeles. The second type of data source we will use is American Community Survey income data. The second link below shows income at the block-group (neighborhood) level throughout Los Angeles County.
 
 [https://data.lacity.org/City-Infrastructure-Service-Requests/Building-and-Safety-Permit-Information-Old/yv23-pmwf/data](https://data.lacity.org/City-Infrastructure-Service-Requests/Building-and-Safety-Permit-Information-Old/yv23-pmwf/data)
 [https://data.census.gov/cedsci/table?q=income&g=0500000US06037.150000&tid=ACSDT5Y2019.B19001&hidePreview=false](https://data.census.gov/cedsci/table?q=income&g=0500000US06037.150000&tid=ACSDT5Y2019.B19001&hidePreview=false)
