@@ -12,7 +12,7 @@ In Los Angeles, ADUs can be permitted on any parcels that allow for residential 
 
 **Spatial Scope:**
 
-The spatial scope of our proposal will be the boundaries of the city of Los Angeles. We intend to zoom in to a finer level of detail to compare the differences we find in ADU permits in neighborhoods with different median income levels. *Should we establish what the different levels will be now? (Ex. Low, Middle, High)* 
+The spatial scope of our proposal will be the boundaries of the city of Los Angeles. We intend to zoom in to a finer level of detail to compare the differences we find in ADU permits in neighborhoods with different median income levels.
 
 **Data Sources:**
 
