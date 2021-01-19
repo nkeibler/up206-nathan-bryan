@@ -14,7 +14,7 @@ In Los Angeles, ADUs can be permitted on any parcels that allow for residential 
 
 The spatial scope of our proposal will be the boundaries of the city of Los Angeles. We intend to zoom in to a finer level of detail to compare the differences we find in the number of ADU permits filed across neighborhoods with different median income levels.
 
-Since SB 1069 was enacted in early 2017, LA has passed subsequent ordinances to ease restrictions for the development of ADUs (https://rb.gy/ir7rh3) and programs to provide support to homeowners who are interested in renting to older adults facing housing insecurity (https://adu.lacity.org/homeowners). Securing permits for new construction to expand housing opportunity, particularly for affordable options, is a notoriously difficult process in major cities like LA. We are interested in focusing on LA’s recent ADU development patterns because the city has demonstrated a clear interest in facilitating an increased supply of this particular housing typology. 
+Since SB 1069 was enacted in early 2017, LA has passed subsequent ordinances to ease restrictions for the development of ADUs (https://rb.gy/ir7rh3) and programs to provide support to homeowners who are interested in renting to older adults facing housing insecurity (https://adu.lacity.org/homeowners). Securing permits for new construction to expand housing opportunity, particularly to create affordable rental options, is a notoriously difficult process in major cities like LA. We are interested in focusing on LA’s recent ADU development patterns because the city has demonstrated a clear interest in facilitating an increased supply of this particular housing typology. 
 
 **Data Sources:**
 
