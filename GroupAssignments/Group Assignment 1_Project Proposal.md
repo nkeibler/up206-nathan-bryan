@@ -14,6 +14,8 @@ In Los Angeles, ADUs can be permitted on any parcels that allow for residential 
 
 The spatial scope of our proposal will be the boundaries of the city of Los Angeles. We intend to zoom in to a finer level of detail to compare the differences we find in ADU permits in neighborhoods with different median income levels.
 
+Since SB 1069 was enacted in early 2017, LA has passed subsequent ordinances to ease restrictions for the development of ADUs (https://rb.gy/ir7rh3) and programs to provide support to homeowners who are interested in renting to older adults facing housing insecurity (https://adu.lacity.org/homeowners). Securing permits for new construction to expand housing opportunity, particularly for affordable options, is a notoriously difficult process in major cities like LA. We are interested in focusing on LA’s recent ADU development patterns because the city has demonstrated a clear interest in facilitating an increased supply of this particular housing typology. 
+
 **Data Sources:**
 
 We will use two primary types of data sources to tackle this research question. The first type is permit data. This will allow us to determine the date and location of each permit pulled to pursue accessory dwelling unit developments. See the first link below for permit data from 2014 to 2020 for the city of Los Angeles. The second type of data source we will use is American Community Survey income data. The second link below shows income at the block-group (neighborhood) level throughout Los Angeles County.
