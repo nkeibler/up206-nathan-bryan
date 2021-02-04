@@ -29,6 +29,8 @@ Our analysis will consist of three steps, as shown in the flow chart below. Firs
 
 ![Flow Chart](https://i.imgur.com/xVgojPm.jpg)
 
+At the conclusion of the midterm, we are mid-way through the second step shown in the graphic above. We have analyzed, mapped, and charted the median income of each block group in the city of Los Angeles and mapped the locations of each permitted ADU. In future assignments, we will determine the block group of each permitted ADU via a spatial join and analyze the relationship between each block group's median income and number of ADU's permitted. 
+
 **Conclusion:**
 
 We expect this research to help us determine whether there is a correlation between the median income of a neighborhood and its number of permitted ADUs. We expect that the permitting of ADUs will be negatively associated with neighborhood income because neighborhoods with more wealth will be more inclined to resist affordable housing options and maintain their exclusivity. Note, however, that while this analysis will help us determine correlation of these two variables, it will not help us determine causation.
