@@ -18,16 +18,16 @@ Since SB 1069 was enacted in early 2017, LA has passed subsequent ordinances to 
 
 **Data Sources:**
 
-We are using two primary types of data sources to tackle this research question. The first type is permit data. This allows us to determine the date and location of each permit pulled to pursue accessory dwelling unit developments. See the first link below for permit data from 2014 to 2020 for the city of Los Angeles. The second type of data source we are using is American Community Survey income data. The second link below shows income at the block-group (neighborhood) level throughout Los Angeles County.
+We are using two primary types of data sources to tackle this research question. The first type is permit data. This allows us to determine the date and location of each permit pulled to pursue accessory dwelling unit developments. See the first link below for permit data from 2014 to 2020 for the city of Los Angeles. The second type of data source we are using is American Community Survey income data. The second link below shows income at the census tract level throughout Los Angeles County. Our previous proposal submittal referenced the block group level, but to minimize noise in the data from small sample size, we opted to use the census tract level instead. 
 
 [https://data.lacity.org/City-Infrastructure-Service-Requests/Building-and-Safety-Permit-Information-Old/yv23-pmwf/data](https://data.lacity.org/City-Infrastructure-Service-Requests/Building-and-Safety-Permit-Information-Old/yv23-pmwf/data)
-[https://data.census.gov/cedsci/table?q=income&g=0500000US06037.150000&tid=ACSDT5Y2019.B19001&hidePreview=false](https://data.census.gov/cedsci/table?q=income&g=0500000US06037.150000&tid=ACSDT5Y2019.B19001&hidePreview=false)
+[https://censusreporter.org/data/table/?table=B19013&geo_ids=16000US0644000,140|16000US0644000&primary_geo_id=16000US0644000#](https://censusreporter.org/data/table/?table=B19013&geo_ids=16000US0644000,140|16000US0644000&primary_geo_id=16000US0644000#)
 
 **Intended Analysis / Visualizations:**
 
 Our analysis process consists of three steps, as shown in the flow chart below. First, collected and cleaned the data (see data sources above). Next, we are currently analyzing the data at the block group level, determining both the number of ADUs permitted in and the median income of each block group. Last, we will visualize our results with both a chart and a map.
 
-![Flow Chart](https://i.imgur.com/xVgojPm.jpg)
+![Flow Chart](https://i.imgur.com/z5Gutcf.jpg)
 
 At the conclusion of the midterm assignment, we are mid-way through the second step shown in the graphic above. We have analyzed, mapped, and charted the median income of each block group in the city of Los Angeles and mapped the locations of each permitted ADU. In future assignments, we will determine the block group of each permitted ADU via a spatial join and analyze the relationship between each block group's median income and number of ADU's permitted. 
 
